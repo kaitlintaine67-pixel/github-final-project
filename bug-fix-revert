@@ -48,7 +48,7 @@ $ curl -s https://github.com
       },
       "html_url": "https://github.com",
       "fork": false,
-      "url": "https://github.com"
+      "url": "https://github.com/readme"
     }
   }
 }
